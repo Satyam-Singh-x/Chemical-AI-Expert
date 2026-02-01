@@ -4,6 +4,8 @@ A Retrieval-Augmented Generation (RAG) based Chemical Engineering Knowledge Assi
 
 This system combines domain-specific chemical engineering documents, vector search (FAISS), local LLM inference via Ollama, LangChain, LangGraph memory, and a Streamlit UI to deliver accurate, safe, and citation-grounded answers.
 
+Demo Screenshots are given.
+
 🚀 Key Highlights
 
 🔍 Domain-specific RAG (Chemical Engineering only)
