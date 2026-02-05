@@ -6,6 +6,8 @@ This system combines domain-specific chemical engineering documents, vector sear
 
 Demo Screenshots are given.
 
+Live Video Demo: https://www.youtube.com/watch?v=ZIqISfhQ6tc
+
 🚀 Key Highlights
 
 🔍 Domain-specific RAG (Chemical Engineering only)
